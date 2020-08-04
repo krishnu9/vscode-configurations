@@ -1,0 +1,13 @@
+{
+    "C_Cpp.clang_format_style": "LLVM",
+    "C_Cpp.errorSquiggles": "Enabled",
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "valarray": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "tuple": "cpp",
+        "vector": "cpp"
+    }
+}
